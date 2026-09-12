@@ -4,5 +4,11 @@
   "title": "Hello ytproplus users",
   "message": " Hello i am Archimetrix ,I want to thank you all for using my extension. SO gratefull .I created this updates section to notify all users of ytproplus time to time about annoucements etc.  If you guys face any bugs or want a feature you can request or raise issue in github i will be happy to help you . ",
   "timestamp": "2026-09-06T10:30:00+05:30"
+  },
+  {
+  "id": "2026-09-12-05",
+  "title": "Update Regarding PIP Mode",
+  "message": " The PIP Mode works automatically if you turn of those 2 browser flags but at the same time you may face problem with other websites videos if you dont want pip there . then dont turn on those flags and normally just use pipmode from the player check there is a pipmode button just click on it and it will float everywhere . ",
+  "timestamp": "2026-09-12T20:30:00+05:30"
   }
 ]
