@@ -73,7 +73,7 @@ For users on other Chromium browsers where the extension is not yet in the store
 
 **Click the image below to watch the full showcase and installation guide: ⏬**
 
-[![Extension Installation Guide](https://i.postimg.cc/mrKzV2sQ/Screenshot-2026-09-13-194248.png)](https://files.catbox.moe/t7v3be.mp4)
+[![Extension Installation Guide](https://i.postimg.cc/mrKzV2sQ/Screenshot-2026-09-13-194248.png)](https://youtu.be/HIBwMWksrTg)
 ---
 
 ## 🖥️ Usage
