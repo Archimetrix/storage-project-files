@@ -70,7 +70,8 @@ For users on other Chromium browsers where the extension is not yet in the store
 4.  **Load the Extension:** Click the **"Load unpacked"** button in the top left and select the extracted `Youtube-Pro-Plus-main` folder.
 5.  *Important:* Make sure to disable any conflicting Tampermonkey scripts or Stylus themes! 
 6.  **Refresh YouTube** and enjoy!
-Click the image below to watch the full showcase and installation guide:
+
+**Click the image below to watch the full showcase and installation guide: ⏬**
 
 [![Extension Installation Guide](https://i.postimg.cc/mrKzV2sQ/Screenshot-2026-09-13-194248.png)](https://files.catbox.moe/t7v3be.mp4)
 ---
