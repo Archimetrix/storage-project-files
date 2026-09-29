@@ -15,7 +15,7 @@
 ---
 <img src="https://1drv.ms/v/c/15824cea270791bd/IQQmTbmZDG7cQLMCbPUhgeomAZ827icnFMrhwuSTlWW05MU?width=1920&height=1080" width="1920" height="1080" />
 
-## 📥 Download
+## 📥 Download  
 
 <p float="left">
   <a href="https://addons.mozilla.org/en-US/firefox/addon/youtube-pro-plus/" target="_blank">
@@ -37,6 +37,7 @@
 Click the image below to watch the full showcase and installation guide:
 
 [![YouTube Pro Plus Showcase](https://i.postimg.cc/3NDsqcJv/photo-2026-05-03-18-50-19.jpg)](https://drive.google.com/file/d/1EmRuadGyLf4Ikj0UlXegcVHJ2ybU7Aeu/view?usp=sharing)
+[![YouTube Pro Plus Showcase](https://files.catbox.moe/u19sqq.png)](https://opentip.kaspersky.com/8380DEC0227208FE1F5358046FE11E1CF16C039599A996FFD997AB9A44645E46/results?tab=upload)
 
 ---
 
