@@ -28,7 +28,7 @@ This extension is **not published on the Chrome Web Store**. It's distributed as
 <div align="center">
 
 <a href="https://files.catbox.moe/ycpt9e.mp4">
-  <img src="https://cdn.jsdelivr.net/gh/Archimetrix/storage-project-files@main/random-share/vivimusicdemo.gif" alt="Vivimusic Web demo — click to watch the full video" width="720" />
+  <img src="https://i.postimg.cc/C1rXfBXk/vivimusicdemo.gif" alt="Vivimusic Web demo — click to watch the full video" width="720" />
 </a>
 
 **Click the preview above to watch the full video** 
