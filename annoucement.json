@@ -13,8 +13,8 @@
   },
   {
   "id": "2026-10-02-06",
-  "title": "Update to version 7.1.9 ",
-  "message": " Everyone, please update the extension to version 7.1.9 This version introduces a new Default Video Quality feature and includes fixes for GitHub authentication.Please check whether GitHub authentication is working properly. Once you verify it, the extension will be unlocked for you for a lifetime. However, if the banner is still showing after successful authentication, please create a GitHub issue and describe the problem in detail so it can be investigated.There is also a huge update to VIVIMUSIC Web! If you use YouTube Music, I highly recommend updating to the latest version of VIVIMUSIC Web. It includes a significantly enhanced user experience along with fixes for several minor issues.",
+  "title": "Version 7.1.9 & Github auth fix  ",
+  "message": " Everyone, please update the extension to version 7.1.9 This version introduces a new Default Video Quality feature and includes fixes for GitHub authentication.Please check whether GitHub authentication is working properly. Once you verify it, the extension will be unlocked for you for a lifetime. However, if the banner is still showing after successful authentication then please remove the extension from your browser then reinstall the version 7.1.9 using load unpacked and verify this will solve the issue and after trying this if its still showing - please create a GitHub issue and describe the problem in detail so it can be investigated.There is also a huge update to VIVIMUSIC Web! If you use YouTube Music, I highly recommend updating to the latest version of VIVIMUSIC Web. It includes a significantly enhanced user experience along with fixes for several minor issues.",
   "timestamp": "2026-10-02T14:20:00+05:30"
   }
 ]
