@@ -1,14 +1,14 @@
 [
   {
-  "id": "2026-10-01-01",
-  "title": "Hello VIVIMUSIC-WEB users",
-  "message": " Hello i am Archimetrix ,I want to thank you all for using my extension. SO gratefull .I created this annoucements section to notify all users of VIVIMUSIC-WEB time to time about project updates etc.  If you guys face any bugs or want a feature you can request or raise issue in github i will be happy to help you . ",
-  "timestamp": "2026-10-01T19:33:00+05:30"
-  },
-  {
   "id": "2026-10-14-02",
   "title": "VIVIMUSIC-WEB is now available for Firefox",
   "message": " Now VIVIMUSIC-WEB is available for firefox browser and you can use it with any firefox browser forks -- users can directly install the firefox addons- https://addons.mozilla.org/en-US/firefox/addon/vivimusicweb/ ",
   "timestamp": "2026-10-14T22:00:00+05:30"
+  },
+  {
+  "id": "2026-10-29-03",
+  "title": "A new player style added now in v10.0",
+  "message": " In this version 10 update a vinyl disc style added with animation for pause and play -- also optimized lyrics fetching logic --and also overall experience will feel more smooth i hope . Update to latest version and if there is any bug please report in github issues .",
+  "timestamp": "2026-10-29T19:00:00+05:30"
   }
 ]
