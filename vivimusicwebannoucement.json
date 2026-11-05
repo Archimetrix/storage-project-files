@@ -1,11 +1,5 @@
 [
   {
-  "id": "2026-10-14-02",
-  "title": "VIVIMUSIC-WEB is now available for Firefox",
-  "message": " Now VIVIMUSIC-WEB is available for firefox browser and you can use it with any firefox browser forks -- users can directly install the firefox addons- https://addons.mozilla.org/en-US/firefox/addon/vivimusicweb/ ",
-  "timestamp": "2026-10-14T22:00:00+05:30"
-  },
-  {
   "id": "2026-10-29-03",
   "title": "A new player style added now in v10.0",
   "message": " In this version 10 update a vinyl disc style added with animation for pause and play -- also optimized lyrics fetching logic --and also overall experience will feel more smooth i hope . Update to latest version and if there is any bug please report in github issues .",
@@ -16,5 +10,11 @@
   "title": "Crossfade added now in v10.1.0 and major bugs fixed",
   "message": " In this 1.1.0 release a long waited feature included - crossfade for ytmusic songs - currently its the first extension in internet that providing the crossfade for ytmusic songs although its still in beta .Fixed two major bug where some songs videos werent loading --now thats fixed still if you find any song video not playing while the extension is on then please create a issue in github along with that song video link , Another major bug where spotify canvsa were not showing when using upnext right click to select anything .Improved star verification so users can use the extension without any verification as many times they want .",
   "timestamp": "2026-11-01T11:00:00+05:30"
+  },
+  {
+  "id": "2026-11-05-05",
+  "title": "Glassy floating miniplayer and upgraded vinyl disc theme ",
+  "message": " In this 1.2.0 release Floating glassy blurred miniplayer added , vinyl disc theme upgraded - optimized betterlyrics ---Update to the Latest version for best experience .",
+  "timestamp": "2026-11-05T22:00:00+05:30"
   }
 ]
