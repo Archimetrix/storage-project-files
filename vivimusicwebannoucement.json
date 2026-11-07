@@ -16,5 +16,11 @@
   "title": "Glassy floating miniplayer and upgraded vinyl disc theme ",
   "message": " In this 10.2.0 release Floating glassy blurred miniplayer added , vinyl disc theme upgraded - optimized betterlyrics ---Update to the Latest version for best experience .",
   "timestamp": "2026-11-05T22:00:00+05:30"
+  },
+  {
+  "id": "2026-11-07-06",
+  "title": "YtMusic Problem ",
+  "message": " From today i think YTMUSIC is testing some changes in web so various types of problems arising while using the extension - or maybe they are blocking adblocker . If you facing any types of issue then please report in github in detailed with images and turn off the extension if you facing any problem. I am facing problem thats why i am shring this you may also face problems. ",
+  "timestamp": "2026-11-07T18:00:00+05:30"
   }
 ]
