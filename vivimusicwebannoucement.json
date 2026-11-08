@@ -3,24 +3,30 @@
   "id": "2026-10-29-03",
   "title": "A new player style added now in v10.0",
   "message": " In this version 10 update a vinyl disc style added with animation for pause and play -- also optimized lyrics fetching logic --and also overall experience will feel more smooth i hope . Update to latest version and if there is any bug please report in github issues .",
-  "timestamp": "2026-10-29T19:00:00+05:30"
+  "timestamp": "2026-10-29T19:00+05:30"
   },
   {
   "id": "2026-11-01-04",
   "title": "Crossfade added now in v10.1.0 and major bugs fixed",
   "message": " In this 1.1.0 release a long waited feature included - crossfade for ytmusic songs - currently its the first extension in internet that providing the crossfade for ytmusic songs although its still in beta .Fixed two major bug where some songs videos werent loading --now thats fixed still if you find any song video not playing while the extension is on then please create a issue in github along with that song video link , Another major bug where spotify canvsa were not showing when using upnext right click to select anything .Improved star verification so users can use the extension without any verification as many times they want .",
-  "timestamp": "2026-11-01T11:00:00+05:30"
+  "timestamp": "2026-11-01T11:00+05:30"
   },
   {
   "id": "2026-11-05-05",
   "title": "Glassy floating miniplayer and upgraded vinyl disc theme ",
   "message": " In this 10.2.0 release Floating glassy blurred miniplayer added , vinyl disc theme upgraded - optimized betterlyrics ---Update to the Latest version for best experience .",
-  "timestamp": "2026-11-05T22:00:00+05:30"
+  "timestamp": "2026-11-05T22:00+05:30"
   },
   {
   "id": "2026-11-07-06",
   "title": "YtMusic Problem ",
   "message": " From today i think YTMUSIC is testing some changes in web so various types of problems arising while using the extension - or maybe they are blocking adblocker . If you facing any types of issue then please report in github in detailed with images and turn off the extension if you facing any problem. I am facing problem thats why i am shring this you may also face problems. ",
-  "timestamp": "2026-11-07T18:00:00+05:30"
+  "timestamp": "2026-11-07T18:00+05:30"
+  },
+  {
+  "id": "2026-11-08-07",
+  "title": "New start and bug fixes experimental settings",
+  "message": " Vivimusic web is now ViviMusic Xten , its a new start - in this version 11.0 release there are many fixes Overall extension aesthetic moderization .Fixed several bugs .Spotify canvas bug fix .Enhanced Update card .for both chrome and firefox build.Added Experimental support for youtube music new layout --(youtube music is testing new layouts for some accounts - if your account is one of those account you will see that lyrics theme canvas nothing is working - then go to appearance and turn of that experimental setting ) update the extension for best experience",
+  "timestamp": "2026-11-08T14:20:00+05:30"
   }
 ]
